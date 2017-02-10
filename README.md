@@ -1,6 +1,6 @@
 # Conan Sml packege
 
-Provide a package description (conanfile) for the popular C++ package manager conan.
+Provides a conan package description for the boost sml library.
 
 You find more details using the following links:
 
